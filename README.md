@@ -101,6 +101,7 @@ ones published on [subtraq.co/en/mcp](https://subtraq.co/en/mcp).
 | File | Content |
 |---|---|
 | [`server.json`](server.json) | The server's entry in the official MCP Registry. |
+| [`lhm.plugin.json`](lhm.plugin.json) | The listing manifest for the LobeHub MCP Marketplace. |
 | [`openapi.json`](openapi.json) | A copy of the OpenAPI 3.1 description of the v1 API. The live file at [`subtraq.co/api/v1/openapi.json`](https://subtraq.co/api/v1/openapi.json) is generated from the same tool registry and is the reference; its descriptions are in French. |
 
 ## Support

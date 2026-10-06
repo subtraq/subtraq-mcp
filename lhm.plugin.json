@@ -1,0 +1,12 @@
+{
+  "identifier": "subtraq",
+  "name": "Subtraq",
+  "version": "1.0.0",
+  "author": "Subtraq",
+  "authorUrl": "https://github.com/subtraq",
+  "description": "Create short links, track clicks and attribute sales from your AI agent: 8 tools backed by the Subtraq API (workspaces, links, analytics, sales). Remote server, authenticated with a Subtraq API key.",
+  "homepage": "https://subtraq.co/en/mcp",
+  "cloudEndpoint": "https://subtraq.co/api/mcp",
+  "icon": "https://subtraq.co/apple-icon.png",
+  "tags": ["link-shortener", "link-tracking", "attribution", "analytics", "marketing"]
+}
